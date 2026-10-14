@@ -1,0 +1,15 @@
+[project]
+name = "rag-detective-notebook"
+version = "3.0.0"
+description = "Учебный RAG-детектив в одном Jupyter notebook"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "ipykernel>=6.29,<8",
+    "jupyterlab>=4,<5",
+    "python-dotenv>=1,<2",
+    "openai>=1.68,<3",
+    "langchain-core>=0.3,<2",
+    "langchain-openai>=0.3,<2",
+    "langchain-ollama>=0.3,<2",
+    "numpy>=1.26,<3",
+]

@@ -1,0 +1,7 @@
+.venv/
+.env
+.env.local
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+# Не игнорируйте .ipynb: для сдачи нужны сохранённые outputs.

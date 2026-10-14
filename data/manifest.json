@@ -1,0 +1,515 @@
+{
+  "schema_version": "1.0",
+  "corpus_id": "pixel_sprint_static_20300419",
+  "snapshot_at": "2030-04-19T12:00:00+05:00",
+  "fictional": true,
+  "language": "ru",
+  "document_count": 100,
+  "fragment_count": 1422,
+  "word_count_whitespace": 34869,
+  "chat_document_count": 47,
+  "chat_message_count": 481,
+  "corpus_sha256": "031637feaf3a841a07b4ecae0ffb90c58b6a70a875d4a43f3958465290cd2729",
+  "documents": [
+    {
+      "doc_id": "D001",
+      "file": "documents/D001.md",
+      "sha256": "bce47b6f95f9074f04f2ada021d5c536040bd3fea22151655b7aefbc955e47ab"
+    },
+    {
+      "doc_id": "D002",
+      "file": "documents/D002.md",
+      "sha256": "8303c86a1adcabbc676d1e053bcb5ce38ddb0f4b700b15a885a4d9d610939012"
+    },
+    {
+      "doc_id": "D003",
+      "file": "documents/D003.md",
+      "sha256": "06b11a0e1744e97261b265d3c54ca0a62a6734899763053edabb36f58b9d2ce1"
+    },
+    {
+      "doc_id": "D004",
+      "file": "documents/D004.md",
+      "sha256": "789c03ccc6e1c765ff97394d782c7f809aacf6ac49fa5069b5ed114e0cdb5be6"
+    },
+    {
+      "doc_id": "D005",
+      "file": "documents/D005.md",
+      "sha256": "18e9bf735014aa72b00a2a5d57b674effe81126e213524c9b89b77dea585347e"
+    },
+    {
+      "doc_id": "D006",
+      "file": "documents/D006.md",
+      "sha256": "86b98ea46086f9b68f03876442acebeda5cf2e663f14f13e7c78028ff6d2c697"
+    },
+    {
+      "doc_id": "D007",
+      "file": "documents/D007.md",
+      "sha256": "c562117b3ee51ce24864c019cd3733ac80bfa624ff82c153b38db454c98d89a6"
+    },
+    {
+      "doc_id": "D008",
+      "file": "documents/D008.md",
+      "sha256": "2f70131aee31916f3b14e9393a4f949e39d00ec094fcac5b24e480b734de5c99"
+    },
+    {
+      "doc_id": "D009",
+      "file": "documents/D009.md",
+      "sha256": "a7bf2fd6cf5db7efa0bd106ac6ec2939502644bdead269a04802d6843896a89a"
+    },
+    {
+      "doc_id": "D010",
+      "file": "documents/D010.md",
+      "sha256": "12fa290a3cb065b7f90f097ddcefac53cf93028231cb8a368d04e489bfad4f3b"
+    },
+    {
+      "doc_id": "D011",
+      "file": "documents/D011.md",
+      "sha256": "4ebd7c4904f96b5b7c0e0d23a612e98e888fad694d3a4df2f8973a32908ee735"
+    },
+    {
+      "doc_id": "D012",
+      "file": "documents/D012.md",
+      "sha256": "d1185eeb44531575a64e9fa25ab69b1899192ca721f16314c178d56a3ec63ffc"
+    },
+    {
+      "doc_id": "D013",
+      "file": "documents/D013.md",
+      "sha256": "43ea8d8bc8a2bd575059ec5e0ee0a8ab3982c05bd2cea66c7c523ae5fd653787"
+    },
+    {
+      "doc_id": "D014",
+      "file": "documents/D014.md",
+      "sha256": "d02733515b3e9f2f07d9c32987acaf931e8691a2460b7f54a21b0bce27466378"
+    },
+    {
+      "doc_id": "D015",
+      "file": "documents/D015.md",
+      "sha256": "d85816569c5378c6f4b519d9772b3835bd35932eb0beb359b86631b7911308eb"
+    },
+    {
+      "doc_id": "D016",
+      "file": "documents/D016.md",
+      "sha256": "a199591efccbde33f98bbb62f5b7820c3dbf1cb0cbb5cda4adb86c2380cb0436"
+    },
+    {
+      "doc_id": "D017",
+      "file": "documents/D017.md",
+      "sha256": "efa358fe0cb0f2efd27fd8187ae6dc98aa52c536d521d3e206844902c732bf20"
+    },
+    {
+      "doc_id": "D018",
+      "file": "documents/D018.md",
+      "sha256": "a5d39f05f92cc46bc8a6740902619c46a8592e0f46ff666d0d7b96a08dae390a"
+    },
+    {
+      "doc_id": "D019",
+      "file": "documents/D019.md",
+      "sha256": "f62eb89008297dc1ed07d01363779a01e9366b6ec88091fa4197c34893173ad6"
+    },
+    {
+      "doc_id": "D020",
+      "file": "documents/D020.md",
+      "sha256": "be3cd7160e4148e034ce5eef20c7e6bb616cc50649d8d8cacde2b7fb767df52f"
+    },
+    {
+      "doc_id": "D021",
+      "file": "documents/D021.md",
+      "sha256": "7e9e09906a34113d8c07ce9af6228477e6163e73c7c40ef1da009fbaa87c0261"
+    },
+    {
+      "doc_id": "D022",
+      "file": "documents/D022.md",
+      "sha256": "66bb043e8233cfef79e87c08a21011634dce2dc4de6296062023242a78ff520e"
+    },
+    {
+      "doc_id": "D023",
+      "file": "documents/D023.md",
+      "sha256": "8e6248b0f7133b32f4052af1696f0277a0db6b4c0e33a008dd615270f84854e9"
+    },
+    {
+      "doc_id": "D024",
+      "file": "documents/D024.md",
+      "sha256": "946b872dea84fd9bfc5ae0282adf3f7ab6af96a349eb1bfeccd2b0bc4244c05a"
+    },
+    {
+      "doc_id": "D025",
+      "file": "documents/D025.md",
+      "sha256": "b27b675dbd6476282cdb8a965b72600cffa03fcc81ec50494c3ad8a28b834351"
+    },
+    {
+      "doc_id": "D026",
+      "file": "documents/D026.md",
+      "sha256": "7d96179ba7fe86028c7f68b06bd127a29c20f3a074e80c85c5be16906d48f7f1"
+    },
+    {
+      "doc_id": "D027",
+      "file": "documents/D027.md",
+      "sha256": "21368df0b0056040baec00cde6536401da09e47b115cc7ce897cad434bc889f0"
+    },
+    {
+      "doc_id": "D028",
+      "file": "documents/D028.md",
+      "sha256": "cc4d635a15d02ec4e998399a7b342e7b3dc1a5127ea9ed061877ba8eb60242e7"
+    },
+    {
+      "doc_id": "D029",
+      "file": "documents/D029.md",
+      "sha256": "ef53f087afd36ad6151a5af4403496a88eecfdb55e19822f4da6b90b916075bb"
+    },
+    {
+      "doc_id": "D030",
+      "file": "documents/D030.md",
+      "sha256": "007af5cfa15876e2f0f773bbbde094052cb79e03ab31d0fc39e296c9d39f0126"
+    },
+    {
+      "doc_id": "D031",
+      "file": "documents/D031.md",
+      "sha256": "2b8e4bbaa183dda90c578bd455247a7266ce68954e5c9b1664df57660c6c1b35"
+    },
+    {
+      "doc_id": "D032",
+      "file": "documents/D032.md",
+      "sha256": "4a0a62b3ed360eeaa8cdff40144761abe4ef90fe796062cff70a3850d8f65c5c"
+    },
+    {
+      "doc_id": "D033",
+      "file": "documents/D033.md",
+      "sha256": "eccc32b42b7400aeb5233c64d10464fe23233ed37404b6df82dbab58349c3b93"
+    },
+    {
+      "doc_id": "D034",
+      "file": "documents/D034.md",
+      "sha256": "3d35cf74d112c50392c2c1abe86abeb13424d70af7e26bbbe9c96c11d2cd313b"
+    },
+    {
+      "doc_id": "D035",
+      "file": "documents/D035.md",
+      "sha256": "4b55c88a4bd3fb64fff87d1fddabfac22702599f79e64d1345736506fbfae115"
+    },
+    {
+      "doc_id": "D036",
+      "file": "documents/D036.md",
+      "sha256": "82d0f5a224d075b253ef3b60d79378b6bd0f965c2bbb791892f7dcb56f471373"
+    },
+    {
+      "doc_id": "D037",
+      "file": "documents/D037.md",
+      "sha256": "cda12f5ecaf3b78d5de17b42c5d43b1aac7e439203de22821ea1a4d9e9f7aeb9"
+    },
+    {
+      "doc_id": "D038",
+      "file": "documents/D038.md",
+      "sha256": "acaf21280cdd5d3404762eab57f26e19ad6c82a3d56ee6d4fb880a3205667655"
+    },
+    {
+      "doc_id": "D039",
+      "file": "documents/D039.md",
+      "sha256": "8488826d151728490cd3a0226eb8a38cd0bf50e9a69a1702acac2e7155b0106c"
+    },
+    {
+      "doc_id": "D040",
+      "file": "documents/D040.md",
+      "sha256": "45a654da89fd3cc799507153c7422a14e5750afde9468f5c8856f63b195486a9"
+    },
+    {
+      "doc_id": "D041",
+      "file": "documents/D041.md",
+      "sha256": "d1922958c57c784ba8a4589a96b2f3b40881f2238b08ed6e50c1f8df0b55b688"
+    },
+    {
+      "doc_id": "D042",
+      "file": "documents/D042.md",
+      "sha256": "5a6ac590a3abc232a3dd4901f5438ec284a0346547f942b3f66bd831cb3cea64"
+    },
+    {
+      "doc_id": "D043",
+      "file": "documents/D043.md",
+      "sha256": "4902c613b79f60415c725faaee1a2f4e946194e9c3c379780bb1ff63f2b34787"
+    },
+    {
+      "doc_id": "D044",
+      "file": "documents/D044.md",
+      "sha256": "069f0764346561130d0b7250466bf107e534435c288c6284859c688885cefb6b"
+    },
+    {
+      "doc_id": "D045",
+      "file": "documents/D045.md",
+      "sha256": "c10c3f2155a57ad2443f5c6d0fc84914e53c67e8ae095299adaed42aaac8f77f"
+    },
+    {
+      "doc_id": "D046",
+      "file": "documents/D046.md",
+      "sha256": "8075eeb0166923b4982dc8284ad3da583a89f15ae3de857f130154623818c545"
+    },
+    {
+      "doc_id": "D047",
+      "file": "documents/D047.md",
+      "sha256": "4aba0d11925990b77386573e922ae793d1e2172e04e18dd493574269cd1b4137"
+    },
+    {
+      "doc_id": "D048",
+      "file": "documents/D048.md",
+      "sha256": "050e6a90c2e12310dbfb9b463ea7142fc1dde46e4b30efa6e9e34a6761c226f3"
+    },
+    {
+      "doc_id": "D049",
+      "file": "documents/D049.md",
+      "sha256": "c51be00c0b9579eb91dca8da7b9877be89d82ad7f12f9282a535dd84aa1dfe7b"
+    },
+    {
+      "doc_id": "D050",
+      "file": "documents/D050.md",
+      "sha256": "e330dc7a8795a0c40c7a7eb5a9ac650327027c50fdf442624d20da0ecaccf579"
+    },
+    {
+      "doc_id": "D051",
+      "file": "documents/D051.md",
+      "sha256": "8d59b00f7833a472d87bc7bde9b99a84af90982028e3c8f51ae19298b851930c"
+    },
+    {
+      "doc_id": "D052",
+      "file": "documents/D052.md",
+      "sha256": "26fc482920aedbc0ba35c808e2c3cc48ee710e90cb43c71f5237c8c52765a275"
+    },
+    {
+      "doc_id": "D053",
+      "file": "documents/D053.md",
+      "sha256": "7f2dec5f88d46f40d65f4184f78e70d6bb5e0c7a2fb3545cf371ea11d20cb544"
+    },
+    {
+      "doc_id": "D054",
+      "file": "documents/D054.md",
+      "sha256": "e9e9988168021376656f742c55dac355f41a2c631ffdcf0e297571c501ad6033"
+    },
+    {
+      "doc_id": "D055",
+      "file": "documents/D055.md",
+      "sha256": "0844f074ce9d1a7cd36ab32c8091aae55e146e8a01628d294452a1241465bbc9"
+    },
+    {
+      "doc_id": "D056",
+      "file": "documents/D056.md",
+      "sha256": "512b54e150e45a855f9b99be6ed55e1a907492a21f5e5e853f7cbfe6d60a6f52"
+    },
+    {
+      "doc_id": "D057",
+      "file": "documents/D057.md",
+      "sha256": "5df3938c8aeb6598f51a9223d295627ecdf2b50db60fb5f9be7dff0ab85a40ff"
+    },
+    {
+      "doc_id": "D058",
+      "file": "documents/D058.md",
+      "sha256": "bdda191b4d2755d313155594a9a0bb1d9f019da60f2b87fbde4112bf9b32c7a0"
+    },
+    {
+      "doc_id": "D059",
+      "file": "documents/D059.md",
+      "sha256": "f3ca4767ce103623ced5ac40f0c6d7f63e57eb05b9fd2d1fc0f7deef093ac3e9"
+    },
+    {
+      "doc_id": "D060",
+      "file": "documents/D060.md",
+      "sha256": "b20b6b18ebe29073c55a1a1ebe14243a76423b89dee44c1cc733447160098b6c"
+    },
+    {
+      "doc_id": "D061",
+      "file": "documents/D061.md",
+      "sha256": "16c5b58e3f949672c6bf86654c3333dc5f91f77db01ea704afcdd93e557453ba"
+    },
+    {
+      "doc_id": "D062",
+      "file": "documents/D062.md",
+      "sha256": "a8b522677248443b0e4f44a965bb3268e2b21a0eb52c16154b481d7036fd7347"
+    },
+    {
+      "doc_id": "D063",
+      "file": "documents/D063.md",
+      "sha256": "e70fcb2d38d1705bdaaa3c3676363d8ae91c8453346815aa8f927a6e9189acb4"
+    },
+    {
+      "doc_id": "D064",
+      "file": "documents/D064.md",
+      "sha256": "4d972065b96cb40b827b7dfe707873830b4d408265ea740244398160c0bfcabc"
+    },
+    {
+      "doc_id": "D065",
+      "file": "documents/D065.md",
+      "sha256": "d5f72b9d1db7e8a8476e022728164078de6a7e9036bc7be6ce98f935783165f1"
+    },
+    {
+      "doc_id": "D066",
+      "file": "documents/D066.md",
+      "sha256": "7753acaf1e38894ad2c6fc7b26250892acf8edbfd51da06e6720dd63953906fc"
+    },
+    {
+      "doc_id": "D067",
+      "file": "documents/D067.md",
+      "sha256": "5af82be2f7ac9c168d1d046253be3833f4634ea72539c0a096564d2482dbd052"
+    },
+    {
+      "doc_id": "D068",
+      "file": "documents/D068.md",
+      "sha256": "d73831ab4b39aa8c165cc7aacf5fc59da3ba50b848447e114d1e5be1d3337ede"
+    },
+    {
+      "doc_id": "D069",
+      "file": "documents/D069.md",
+      "sha256": "ca3ac7e8d83dbb725fc3e6c6dfec06bc997fe8f2863b4b029177c6e1d0e75520"
+    },
+    {
+      "doc_id": "D070",
+      "file": "documents/D070.md",
+      "sha256": "ebfeface1d162a1bac5099e64303313df3c13e6963866c18feb7eeef2d2589e1"
+    },
+    {
+      "doc_id": "D071",
+      "file": "documents/D071.md",
+      "sha256": "735798c1d0c1280c6c1d392cfa28db948701b5a4f9b289e13aac686dbeddb9c3"
+    },
+    {
+      "doc_id": "D072",
+      "file": "documents/D072.md",
+      "sha256": "1e5cee49af24e88c9d4e2439f0befa8f8307a9f0c172e2e6aa2f7785ddc7f1fd"
+    },
+    {
+      "doc_id": "D073",
+      "file": "documents/D073.md",
+      "sha256": "8c6c3babf8ebbc6fd69e71eb84841f9f42aba9cd6d8d5056a514528c89c9d530"
+    },
+    {
+      "doc_id": "D074",
+      "file": "documents/D074.md",
+      "sha256": "132d5d6fb3fec1c2a06b37e95f47eb280998712713f13ca7b2824cbe88e30825"
+    },
+    {
+      "doc_id": "D075",
+      "file": "documents/D075.md",
+      "sha256": "2a88241e2c66837abe38352fa6287f8cc6476301e71baca9f173a220f846f8cc"
+    },
+    {
+      "doc_id": "D076",
+      "file": "documents/D076.md",
+      "sha256": "41e4169a3bd474ed93ca1870cc1e32fb752109fcaec0afc39d01fcf113a19f92"
+    },
+    {
+      "doc_id": "D077",
+      "file": "documents/D077.md",
+      "sha256": "4f5b325abde9469b3708c1e9dc4570294604a94bfd8b090be126a903a152a5d5"
+    },
+    {
+      "doc_id": "D078",
+      "file": "documents/D078.md",
+      "sha256": "26d17de7b759668ba83c842b525025cda76b6eb2a41d8bda29130911fc4e982d"
+    },
+    {
+      "doc_id": "D079",
+      "file": "documents/D079.md",
+      "sha256": "4a6e93e95e7750c639c7f94be82a25451587264e79593c46957fc700a52f179c"
+    },
+    {
+      "doc_id": "D080",
+      "file": "documents/D080.md",
+      "sha256": "9a32589c10daa1048a720f1fb0569c3927c6d148d60f181fd94e944a4feedb05"
+    },
+    {
+      "doc_id": "D081",
+      "file": "documents/D081.md",
+      "sha256": "4060efab9df2e8588b72def294c964bbc47a7f10992ce45483ff8b15b030f92b"
+    },
+    {
+      "doc_id": "D082",
+      "file": "documents/D082.md",
+      "sha256": "fa50dd3e5423f8c2df3f55926743881752dbdff15675d8e4119489bc2100628c"
+    },
+    {
+      "doc_id": "D083",
+      "file": "documents/D083.md",
+      "sha256": "730d0d5d3cb7bc6e0d23c59a872fa2c3d2c86b527df772d280bdd9973d33a595"
+    },
+    {
+      "doc_id": "D084",
+      "file": "documents/D084.md",
+      "sha256": "87c8b0129f0b5d7f829a5eb3d2bf69ec6905c85afd251bfa89b7ead7bc6b30b6"
+    },
+    {
+      "doc_id": "D085",
+      "file": "documents/D085.md",
+      "sha256": "a78c279a2dc041ca2e4dd49e612f1ba81c6de55fa5556c12ecce57b40423b657"
+    },
+    {
+      "doc_id": "D086",
+      "file": "documents/D086.md",
+      "sha256": "289c84419cd8d4a47810ea12e13ef439ea3bf5f2e20015be7a8c3d4609807c2e"
+    },
+    {
+      "doc_id": "D087",
+      "file": "documents/D087.md",
+      "sha256": "40bb7a2496cd5533322b44e14dd91d59a2fafbeea63dc7f62edf9d005b346752"
+    },
+    {
+      "doc_id": "D088",
+      "file": "documents/D088.md",
+      "sha256": "f70f7b6089f93d7941016394460e3af64e3efe50dafbbf15d826d9d8964bd564"
+    },
+    {
+      "doc_id": "D089",
+      "file": "documents/D089.md",
+      "sha256": "b85f423d459fa091caee8cded86741a9ad2e222d6231dc932a430f60d24bef1e"
+    },
+    {
+      "doc_id": "D090",
+      "file": "documents/D090.md",
+      "sha256": "b639e9d9a542be0ce7cc447c68dc85b558ea97ced339c44fade269844e551e75"
+    },
+    {
+      "doc_id": "D091",
+      "file": "documents/D091.md",
+      "sha256": "10671d954999e553fb362e1ed496d76268471af48cba0a35015d9bd12570388c"
+    },
+    {
+      "doc_id": "D092",
+      "file": "documents/D092.md",
+      "sha256": "e2f610846a9c9a698a01e0df210441b9527ed78b600427efdb7a2a56a4e6ede8"
+    },
+    {
+      "doc_id": "D093",
+      "file": "documents/D093.md",
+      "sha256": "9257059538bf05fbab0993451f53687318d7138027785b2a36eb8bc0a15a5f80"
+    },
+    {
+      "doc_id": "D094",
+      "file": "documents/D094.md",
+      "sha256": "5acd99ee3d0f30d643c1300e569f9eb109b99b4aef5c5c68132d7a16ba8bc8bc"
+    },
+    {
+      "doc_id": "D095",
+      "file": "documents/D095.md",
+      "sha256": "b34131bc551501b3056c9f5a8e07813e609ab25e13d5d803e63e8f1fbda46c91"
+    },
+    {
+      "doc_id": "D096",
+      "file": "documents/D096.md",
+      "sha256": "250f26062267d0103ffc523570cd447a9f43ac6cee1e1ce90a76d9668f66ee2c"
+    },
+    {
+      "doc_id": "D097",
+      "file": "documents/D097.md",
+      "sha256": "e7aa94868f39e7b2506acda9bd47005c8d0f952813c701b5aa424fd30aa5d514"
+    },
+    {
+      "doc_id": "D098",
+      "file": "documents/D098.md",
+      "sha256": "e51f81bf0a3803e9d0984dfdd0ec06a874ce1fd9dd7aa1944b8d4fcefeb9119f"
+    },
+    {
+      "doc_id": "D099",
+      "file": "documents/D099.md",
+      "sha256": "49bbcd51ed8880e310d96685615bc1224367982c64b1526e0f8859bb41b69585"
+    },
+    {
+      "doc_id": "D100",
+      "file": "documents/D100.md",
+      "sha256": "c96783f8a27946913862f84a2dc986ff10580c71fc7a9aa49fe6d73c3de94698"
+    }
+  ]
+}
